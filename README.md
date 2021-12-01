@@ -14,7 +14,7 @@
 
 - 👨‍💻 I am studying Full-Stack Web Developer.
 - 🌱 Currently learning Reactjs, Nodejs, Spring, Bootstrap.
-- 💬 Ask me about JavaScript, Html, Cs, Git.
+- 💬 Ask me about JavaScript, Html, Css, Git.
 - 🔥 Always ready to collaborate for Dev Experiments.
 - ⚡ Fun fact: I still play Warcraft III - The Frozen Throne in Ranked Gaming Client (RGC).
 ## 🛠 &nbsp;Tech Stack
