@@ -19,11 +19,12 @@
 - ⚡ Fun fact: I still play Warcraft III - The Frozen Throne in Ranked Gaming Client (RGC).
 ## 🛠 &nbsp;Tech Stack
   
-  <div >  
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abimael-Lovera&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abimael-Lovera&layout=compact&langs_count=7&theme=aura"/>
-    
-  </div><br>
+  <div align="center">  
+    <!--  -->
+   <a href="https://github.com/Abimael-Lovera">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Abimael-Lovera&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abimael-Lovera&layout=compact&langs_count=7&theme=nord"/>      
+  </div><br> 
     
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
   ![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
