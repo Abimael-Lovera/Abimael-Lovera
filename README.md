@@ -23,7 +23,6 @@
 - 🔥 Always ready to collaborate for Dev Experiments.
 - ⚡ Fun fact: I still play Warcraft III - The Frozen Throne in Ranked Gaming Client (RGC).
 
-[![Typing SVG](<https://readme-typing-svg.herokuapp.com?duration=3500&color=C692E9&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB++I+am+studying+Full-Stack+Web+Developer.;%F0%9F%94%A5+I%E2%80%99m+currently+working+on+Sua+Voz;%F0%9F%8C%B1++Currently+learning+React+Native%2C+Nodejs%2C+Spring+Boot%2C+MongoDB.;%F0%9F%92%AC++Ask+me+about+JavaScript%2C+Java%2C+Html%2C+Css%2C+Git.;%F0%9F%94%A5+Always+ready+to+collaborate+for+Dev+Experiments.;%E2%9A%A1+Fun+fact%3A+I+still+play+Warcraft+III+-+The+Frozen+Throne+in+Ranked+Gaming+Client+(RGC).>)](https://git.io/typing-svg)
 
 ## 🛠 &nbsp;Tech Stack
 
